@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace FluentAPI
 {
-    public class Cities
+    public class City
     {
         public int Id { get; set; }
         [Required, MaxLength(100)]
