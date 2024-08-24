@@ -7,5 +7,13 @@ using System.Threading.Tasks;
 
 namespace FluentAPI
 {
+    class Program
+    {
+        public static void Main()
+        {
+
+        }
+    }
     
+   
 }
